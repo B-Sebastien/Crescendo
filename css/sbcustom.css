@@ -1,0 +1,17 @@
+.success{
+	background: white;
+	border:1px solid black;
+	border-radius: 5px;
+	text-align: center;
+	padding:5px 10px;
+	margin-bottom: 20px;
+	margin-left: 25%;
+	margin-right: 25%;
+	width: 50%;
+}
+.product-stock {
+	color: green;
+}
+.product-nostock {
+	color: red;
+}
